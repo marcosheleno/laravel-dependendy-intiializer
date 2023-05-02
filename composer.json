@@ -10,7 +10,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "SharedKernel\\Dependencies\\": "sharedKernel/Dependencies/tests/"
+            "SharedKernel\\DependenciesTests\\": "sharedKernel/Dependencies/tests/"
         }
     }
 }
