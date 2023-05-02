@@ -1,0 +1,16 @@
+{
+    "name": "marcosheleno/laravel-dependency-injection",
+    "require": {
+        "php": "^8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "SharedKernel\\Dependencies\\": "sharedKernel/Dependencies/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SharedKernel\\Dependencies\\": "sharedKernel/Dependencies/tests/"
+        }
+    }
+}
